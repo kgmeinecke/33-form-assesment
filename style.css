@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #FFE4D6;
+}
+
+main {
+    width: 60vw;
+    border: 1px solid black;
+    padding: 0 20px;
+    border-radius: 5px;
+    background-color: #FACBEA;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0;
+}
+
+input {
+    background-color: #D988B9;
+}
+
+textarea {
+    height: 200px;
+    background-color: #D988B9;
+}
+
+button {
+    width: 80px;
+    background-color: #B0578D;
+    border-radius: 2px;
+    
+}
+
